@@ -1,4 +1,6 @@
-### Hi there 👋
+### My name is Jim Schofield
+
+I'm a front end developer.  I used to be a math/science teacher, but now I solve problems in the coding world.
 
 <!--
 **JimSchofield/JimSchofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
